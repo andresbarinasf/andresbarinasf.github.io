@@ -1,6 +1,6 @@
-title: "Andres Felipe Barinas-Forero gggg"
-author: "Andres Barinas ggg"
-description: "Universidad de Los Andes"
+title: "Andres Barinas-Forero"
+author: "Andres Barinas"
+description: "Universidad de Los Andes | Colombia"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:afelipeb@iadb.org"}
   - {title: Github, icon: github, url: "https://github.com/andresbarinasf"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/andresbarinasf"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
