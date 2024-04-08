@@ -9,14 +9,14 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
+show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Andres_Barinas___IADB_CV_Scheme.pdf", title: "CV"}
+  - {file: "/Andres_Barinas___IADB_CV_Scheme.pdf", title: "CV"}
   - {file: "index.html"}
   - {file: "README.md"}
 
