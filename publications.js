@@ -16,7 +16,7 @@ const publications = [
         "link": "https://revistas.urosario.edu.co/index.php/desafios/article/view/8524",
         "authors": "Mejía-Guinand, L., <i>Barinas-Forero, A.</i>, Mora, M. (2021)",
         "journal": "<b>Desafios</b>, 33(2): 1-30",
-        "short_abstract": "The relationship between multidimensional poverty, income poverty and youth depressive symptoms: cross-sectional evidence from Mexico, South Africa, and Colombia.",
+        "short_abstract": "This paper analyzes the formation and survival of  presidential cabinets in Colombia between 1958 and 2018. We compare two periods in the country's political",
         "abstract": "This paper analyzes the formation and survival of  presidential cabinets in Colombia between 1958 and 2018. We compare two periods in the country's political his-tory: During the first period, 1958 to 1990, Colombia operated with a two-party system. The second period, 1991 to the present, is characterized by the opening of  the political regime to new parties and the formation of  coalition governments. For this purpose, we use semi-parametric models and Cox regressions that allow us to estimate the survival of  581 ministerial appointments and identify the predictors of  survival in their positions from both individual characteristics of  the ministers and the institutional characteristics of  the system. The study shows that the stability in the position of  ministers during the bipartisan era is lower than the duration of  ministers during the period of  coalition governments."
     },
     {
