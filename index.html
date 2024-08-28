@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andres Barinas-Forero</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=PT+Serif:wght@400;700&display=swap" rel="stylesheet">  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">  
+<style>
+        #headerApp{
+            background: white;
+            border-bottom: 1px solid #c2c2c2;
+            box-shadow: none;
+        }
+        #tituloPagina{
+            color: rgb(105, 105, 105);
+            font-family: 'PT Serif', serif;
+            font-size: 20px;
+        }
+        #contenidoReal{
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        #nombre{
+            color: rgb(50, 50, 50);
+            color: #07393C !important;
+            font-family: 'PT Serif', serif;
+        }
+        h1, h2, h3, h4, h5, h6{
+            font-family: 'PT Serif', serif !important;
+        }
+        .mdl-navigation__link{
+            color: rgb(50, 50, 50) !important;
+            font-family: 'Crimson Text', serif;
+            padding: 0 20px !important;
+            font-size: 18px !important;
+        }
+        img{
+        }
+        p{
+            font-family: 'Crimson Text', serif;
+            font-size: 19px;;
+        }
+        li{
+            font-family: 'Crimson Text', serif !important;
+            list-style: none;
+            
+        }
+        ul{
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        .mdl-logo{
+            font-family: 'Crimson Text', serif !important;
+        }
+        .link_social{
+            text-decoration: none !important;
+        }
+        .link_social:hover{
+            text-decoration: underline !important;
+        }
+
+        a{
+            color: #07393C !important;
+        }
+        .profile_pic{
+            padding-right: 20px; 
+            margin: 0 auto;
+        }
+
+
+        @media screen and (min-width: 841px) {
+            .menu_movil{
+                display: none !important;
+            }
+            .mobile{
+                display: none !important;
+            }
+
+            img{
+                margin-bottom: 15px !important;
+            }
+        }
+
+        @media screen and (max-width: 840px) {
+
+
+
+            .mdl-layout--large-screen-only{
+                display: none !important;
+            }
+            .mdl-layout__header-row{
+                display: flex;
+                align-items: center;
+                text-align: center;
+                padding-left: 16px !important;
+                padding-right: 16px !important;
+                border-bottom: 1px solid #c2c2c2;
+            }
+            .mdl-layout-title{
+                flex: 1;
+                
+            }
+            
+            .mdl-layout-spacer{
+                display: none;
+            }
+
+            .profile_pic{
+            padding-right: 0px !important; 
+            margin: 0 auto;
+            }
+
+            .menu_movil{
+                display: flex !important;
+                height: 0 !important;
+                flex-direction: column !important;
+                align-items: center;
+                transform: scaleY(0);
+                transform-origin: top;
+                transition: transform 0.26s ease;
+                
+            }
+
+            .menu_movil_expanded{
+                height: auto !important;
+                transform: scaleY(1);
+                transform-origin: top;
+                transition: transform 0.26s ease;
+            }
+
+            .menu_movil_link{
+                margin-bottom: 10px;
+               
+            }
+
+            div{
+                box-sizing: border-box;
+            }
+
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Always shows a header, even in smaller screens. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header id="headerApp" class="mdl-layout__header">
+    <div class="mdl-layout__header-row" >
+        <span id="tituloPagina" class="mdl-layout-title">Andres Barinas-Forero</span>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation mdl-layout--large-screen-only">
+            <a class="mdl-navigation__link" href="index.html">Home</a>
+            <a class="mdl-navigation__link" href="research.html">Research</a>
+            <a class="mdl-navigation__link" href="cv.html">CV</a>
+            <a class="mdl-navigation__link" href="misc.html">Misc.</a>
+      </nav>
+    </div>
+    <div id="div_menu_movil" class="height_minimum">
+        <div class="mobile" onclick="openMenu()" style="cursor:pointe; width: 100% !important; display: flex; align-items: center; flex-direction: column; padding: 10px;">
+            <i id="icon_menu" class="fa fa-bars" style="color: black !important"></i>
+        </div>
+       
+        <nav id="menu_movil" class="mdl-navigation menu_movil">
+            <a class="mdl-navigation__link menu_movil_link" href="index.html">Home</a>
+            <a class="mdl-navigation__link menu_movil_link" href="research.html">Research</a>
+            <a class="mdl-navigation__link menu_movil_link" href="cv.html">CV</a>
+            <a class="mdl-navigation__link menu_movil_link" href="misc.html">Misc.</a>
+        </nav>
+        <script>
+            var menuExpanded = false
+            function openMenu(){
+                var element = document.getElementById("menu_movil");
+                var icon_menu = document.getElementById("icon_menu");
+                if(!menuExpanded){
+                    icon_menu.classList.remove("fa-bars");
+                    icon_menu.classList.add("fa-close");
+                    element.classList.add("menu_movil_expanded");
+                    menuExpanded = true
+                }
+                else{
+                    icon_menu.classList.add("fa-bars");
+                    icon_menu.classList.remove("fa-close");
+                    element.classList.remove("menu_movil_expanded");
+                    menuExpanded = false
+                }
+            }
+        </script>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Title</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="">Link</a>
+      <a class="mdl-navigation__link" href="">Link</a>
+      <a class="mdl-navigation__link" href="">Link</a>
+      <a class="mdl-navigation__link" href="">Link</a>
+    </nav>
+  </div>
+  <main class="mdl-layout__content">
+    <div class="page-content">
+        <div id="contenidoReal">
+            <!--CONTENIDO-->
+            
+            <div class="mdl-grid" style="margin-top: 20px; border-bottom: 1px solid;">
+                <div class="profile_pic mdl-cell mdl-cell--4-col ">
+                    <img style="width: 100%;" src="perfil.jpg" >
+                    
+                </div>
+                <div class="mdl-cell mdl-cell--8-col">
+                    <h3 id="nombre" style="text-align: center;">Andres Barinas-Forero</h3>
+                    <p style="text-align: justify;"> Hola! I am an economist interested in applied microeconomics, particularly in development, behavioral, and family economics. What keeps me up at night, aside from a cup of coffee? I am intrigued by the intricate relationship between mental health and household dynamics. My research focus lies on unraveling the mechanisms through which compromised mental health impacts families and their decision-making processes.  <br><br>I hold an M.A. and a B.A. in Economics from Universidad de los Andes in Bogotá, Colombia.<br><br>
+                    I am currently working as a Pre-Doctoral research fellow at the Research Program in Development Economics (RPDE) in Princeton University.<br><br> 
+                </div>
+                
+
+                
+            </div>
+            <div class="mdl-grid">
+                <h4 style="width: 100%">Contact</h4>
+                <ul>
+                    <li>
+                        <a class="link_social" href="mailto: afelipeb@iadb.org"><p><i class="fa fa-envelope" style="color: #000; margin-right: 5px;"></i>  afelipeb@iadb.org</p></a>
+                        <a class="link_social" href="https://scholar.google.com/citations?user=pu3BLHMAAAAJ&hl=es"><p><img alt="Google Scholar" src="google_scholar.svg" width="16" height="16" style="margin-right: 5px;" /> Google Scholar</p></a>
+                        <a class="link_social" href="https://www.linkedin.com/in/afbarinas/"><p><i class="fa fa-linkedin" style="color: #0077b5; margin-right: 5px;"></i>  andresbarinasforero</p></a>
+                        <a class="link_social" href="https://twitter.com/andresbarinasf"><p><i class="fa fa-twitter" style="color: #1DA1F2; margin-right: 5px;"></i>  @andresbarinasf</p></a>
+                    </li>
+                    <li><a style="text-decoration: none; color: gray !important;"href="https://github.com/andresbarinasf">https://github.com/andresbarinasf</a></li>
+                </ul>
+            </div>
+            <!--FIN CONTENIDO-->
+        </div>
+    </div>
+  </main>
+  <footer class="mdl-mini-footer" style="margin-top: 20px;">
+    <div class="mdl-mini-footer__left-section">
+      <div class="mdl-logo">© 2024 Andres Barinas-Forero</div>
+      <!--<ul class="mdl-mini-footer__link-list">
+        <li><a href="#">© 2023 Andres Barinas-Forero</a></li>
+        <li><a href="#">Privacy & Terms</a></li>
+      </ul>-->
+    </div>
+  </footer>
+</div>
+</body>
+</html>
