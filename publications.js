@@ -23,19 +23,19 @@ const publications = [
         "id": 3,
         "type": "work_in_progress",
         "title": "Corruption and Political Accountability under Economic Booms: An Experimental Approach",
-        "authors": "<i>Barinas-Forero, A.</i> with Carlos G. Scartascini."
+        "authors": "<i>Barinas-Forero, A.</i> with Carlos Scartascini."
     },
     {
         "id": 4,
         "type": "work_in_progress",
-        "title": "Skills and Stereotypes in Transitioning to the Labor Market through Internships: A Choice Experiment",
+        "title": "Schools of Inequality: Academic credentials as status signals",
         "authors": "<i>Barinas-Forero, A.</i> with Juan Camilo Cárdenas and Leopoldo Fergusson."
     },
     {
         "id": 5,
         "type": "work_in_progress",
-        "authors": "<i>Barinas-Forero, A.</i> with Mariana Blanco, Andrea López-Luzuriaga and Carlos G. Scartascini.",
-        "title": "Understanding Taxpayer Behavior: An Experimental Study of Timing and Gradual Tax Reform."
+        "authors": "<i>Barinas-Forero, A.</i> with Mariana Blanco, Andrea López-Luzuriaga and Carlos Scartascini.",
+        "title": "Understanding Taxpayer Behavior: An experimental study of timing and gradual tax reform."
     },
 ]
 
