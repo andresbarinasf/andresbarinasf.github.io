@@ -5,13 +5,10 @@ title: research
 nav: true
 ---
 
-## publications
-[Urban Wage Gaps in Colombia and the Impact of a National Payroll Tax Policy](https://www.tandfonline.com/doi/abs/10.1080/00343404.2021.1908535?journalCode=cres20). (with Paula Herrera-Idárraga and Pablo Adrián Garlati). 2021. **Regional Studies**, 1-15.
-
-[La Banca de Desarrollo en Colombia](https://ideas.repec.org/a/col/000107/017014.html) (with José Antonio Ocampo and Paola Arias). 2018. **Ensayos Sobre Política Económica**, 88, 1-36.
-
-
 ## work in progress
+[Corruption and Political Accountability in Good and Bad Economic Times](https://publications.iadb.org/en/corruption-and-political-accountability-under-economic-shocks-preliminary-findings). 
+(with [Carlos Scartascini](https://www.cscartascini.org/))
+
 One Hundred and Fifty Years of Immigration and Incarceration in the US: 1870--2020 (with Ran Abramitzky, Leah Boustan, Elisa Jacome, and Santiago Perez)
 
 Bourbon Reforms and State Capacity in the Spanish Empire (with Giorgio Chiovelli, Leopoldo Fergusson, Luis Martinez, and Felipe Valencia)
