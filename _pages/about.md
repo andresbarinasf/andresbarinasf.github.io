@@ -1,12 +1,12 @@
 ---
 layout: about
-title: <h2>about</h2>
+title: <h2>Andres Barinas-Forero</h2>
 permalink: /
 description: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: barinas_foto.jpg
 
 
 news: false  # includes a list of news items
