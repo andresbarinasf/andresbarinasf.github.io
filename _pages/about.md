@@ -14,11 +14,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hola! I work as a predoctoral research fellow at [SIEPR](https://siepr.stanford.edu/) at Stanford University. My fields of interest are development economics, political economy and economic history. I am originally from Colombia.
+Hello! I am a PhD student in Economics at <b> University of California, San Diego </b>. I am interested in applied microeconomics, particularly in behavioral economics, development economics, political economy and experimental economics. 
 
-I hold an M.A. in economics from Universidad de los Andes and a B.A. in economics from Pontificia Universidad Javeriana.
+I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.
 
-My email is jdtorres@stanford.edu
+Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario
 
-[Here](https://www.dropbox.com/s/f5av8nlpdn82bdv/CV.pdf?dl=0) is my CV
+My email is abarinas[at]ucsd.edu
+
+[Here](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0) is my CV
 
