@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD student in Economics at <b> University of California, San Diego </b>. I am interested in applied microeconomics, particularly in behavioral economics, development economics, political economy and experimental economics. 
+Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in applied microeconomics, particularly in behavioral economics, development economics, political economy and experimental economics. 
 
 I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.
 
