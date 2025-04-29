@@ -5,7 +5,7 @@ title: research
 nav: true
 ---
 
-## work in progress
+## working papers
 [Corruption and Political Accountability in Good and Bad Economic Times](https://publications.iadb.org/en/corruption-and-political-accountability-under-economic-shocks-preliminary-findings). 
 (with [Carlos Scartascini](https://www.cscartascini.org/))
 
