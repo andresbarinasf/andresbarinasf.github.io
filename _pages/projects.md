@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: misc
-nav: true
+nav: false
 ---
  
 <details>
