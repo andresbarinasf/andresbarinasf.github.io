@@ -18,9 +18,9 @@ Hello! I am a PhD student in Economics at <b> University of California, San Dieg
 
 I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.
 
-Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario
+Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario.
 
-My email is abarinas[at]ucsd.edu
+My email is abarinas[at]ucsd[dot]edu
 
-[Here](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0) is my CV
+Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0).
 
