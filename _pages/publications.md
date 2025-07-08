@@ -12,6 +12,8 @@ nav: true
 [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
 
 ## work in progress
+(<i>Draft coming soon</i>) Wage cuts, Social Distributional Preferences, and Political Corruption (with [Carlos Scartascini](https://www.cscartascini.org/)) 
+
 Schools of Inequality: Academic Credentials as Status Signals. (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Camilo Cardenas](https://economia.uniandes.edu.co/cardenas))
 
 Understanding Taxpayer Behavior: An Experimental Study of Timing and Gradual Tax Reform. (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
