@@ -20,7 +20,7 @@ Understanding Taxpayer Behavior: An Experimental Study of Timing and Gradual Tax
 
 Political Protest and Economic Obedience. (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
-Parental Learning on Social Values. (with Julian Martinez-Correa)
+Parental Learning on Social Values in Argentina. (with Julian Martinez-Correa)
 
 
 ## chapters in books
