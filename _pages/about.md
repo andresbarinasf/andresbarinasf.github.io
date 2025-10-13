@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p style="font-size: 18px;"> Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario. </p>
 
-<p style="font-size: 18px;">My email is <a href="mailto:pwrbuster-coding@protonmail.com">abarinas@ucsd.edu</a></p>
+<p style="font-size: 18px;">My email is abarinas@ucsd.edu</p>
 
-<p style="font-size: 18px;"> Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0).</p>
+<p style="font-size: 18px;"> Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0).
 
