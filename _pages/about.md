@@ -14,13 +14,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="font-size: 20px;"> Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in development economics, behavioral economics, experimental economics and political economy. </p>
+<p style="font-size: 20px;" align="justify"> Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in development economics, behavioral economics, experimental economics and political economy. </p>
 
-I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.
+<p style="font-size: 20px;" align="justify"> I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.</p>
 
-Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario.
+<p style="font-size: 20px;" align="justify"> Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario. </p>
 
-My email is abarinas@ucsd.edu
+<p style="font-size: 20px;" align="justify">My email is [abarinas@ucsd.edu](abarinas@ucsd.edu) </p>
 
-Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0).
+<p style="font-size: 20px;" align="justify"> Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0).</p>
 
