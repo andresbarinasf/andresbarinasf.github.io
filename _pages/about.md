@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in development economics, behavioral economics, experimental economics and political economy. 
+<h1> Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in development economics, behavioral economics, experimental economics and political economy. 
 
 I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.
 
@@ -22,5 +22,5 @@ Previously, I worked as a predoctoral research fellow at the Inter-American Deve
 
 My email is abarinas@ucsd.edu
 
-Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0).
+Here is my [CV](https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0). </h1>
 
