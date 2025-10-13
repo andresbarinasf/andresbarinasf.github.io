@@ -22,5 +22,5 @@ social: true  # includes social icons at the bottom of the page
 
 <p style="font-size: 18px;">My email is <a href="mailto:abarinas@ucsd.edu">abarinas@ucsd.edu</a></p>
 
-<p><span style="font-size: 20px;">Here is my <a href="https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0">CV</a>.</span></p>
+<p><span style="font-size: 18px;">Here is my <a href="https://www.dropbox.com/scl/fi/2jfsv8lxxizqsmqckn0jq/CV_BarinasForero.pdf?rlkey=7hsiewg6ube8meq4afuoel4jc&st=ni795ccs&dl=0">CV</a>.</span></p>
 
