@@ -6,10 +6,10 @@ nav: true
 ---
 
 ## working papers
-[Corruption and Political Accountability in Good and Bad Economic Times](https://publications.iadb.org/en/corruption-and-political-accountability-good-and-bad-economic-times). 
+1. [Corruption and Political Accountability in Good and Bad Economic Times](https://publications.iadb.org/en/corruption-and-political-accountability-good-and-bad-economic-times). 
 (with [Carlos Scartascini](https://www.cscartascini.org/))
 
-[Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
+2. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
 
 ## work in progress
 (<i>Draft coming soon</i>) Wage cuts, Social Distributional Preferences, and Political Corruption (with [Carlos Scartascini](https://www.cscartascini.org/)) 
