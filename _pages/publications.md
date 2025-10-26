@@ -16,14 +16,15 @@ nav: true
 (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
 4. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
+Master’s thesis (Honorable mention - Juan Luis Londoño Award 2024) 
 
 ## work in progress
 
-Schools of Inequality: Academic Credentials as Status Signals. (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Camilo Cardenas](https://economia.uniandes.edu.co/cardenas))
+1. Schools of Inequality: Academic Credentials as Status Signals. (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Camilo Cardenas](https://economia.uniandes.edu.co/cardenas))
 
-Political Protest and Economic Obedience. (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
+2. Political Protest and Economic Obedience. (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
-Parental Learning on Social Values in Argentina. (with Julian Martinez-Correa)
+3. Parental Learning on Social Values in Argentina. (with [Julian Martinez-Correa](https://harris.uchicago.edu/directory/julian-gabriel-martinez-correa))
 
 
 ## chapters in books
