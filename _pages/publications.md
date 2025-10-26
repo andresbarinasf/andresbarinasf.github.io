@@ -18,7 +18,6 @@ nav: true
 4. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
 
 ## work in progress
-(<i>Draft coming soon</i>) Wage cuts, Social Distributional Preferences, and Political Corruption 
 
 Schools of Inequality: Academic Credentials as Status Signals. (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Camilo Cardenas](https://economia.uniandes.edu.co/cardenas))
 
