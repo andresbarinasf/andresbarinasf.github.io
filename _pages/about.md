@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="font-size: 18px;"> Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in development economics, behavioral economics, experimental economics and political economy. </p>
+<p style="font-size: 18px;"> Hello! I am a PhD student in Economics at <b> University of California, San Diego</b>. I am interested in development economics, behavioral economics, and political economy. </p>
 
 <p style="font-size: 18px;"> I hold an M.A. in Economics and B.A degrees in Economics and Political Science from Universidad de los Andes.</p>
 
