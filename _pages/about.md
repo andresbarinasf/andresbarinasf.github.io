@@ -19,6 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 <p style="font-size: 18px;"> Previously, I worked as a predoctoral research fellow at the Inter-American Development Bank, as a research consultant at the World Bank, and as a research assistant at Universidad de Los Andes and Universidad del Rosario. </p>
 
+<p style="font-size: 18px;">You can reach me at <a href="mailto:abarinas@ucsd.edu">abarinas@ucsd.edu</a></p>
+
 <section class="page-section page-section-shaded" markdown="1">
 
 # research
