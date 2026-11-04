@@ -7,6 +7,7 @@ first_name: Andres Barinas-Forero
 middle_name:
 last_name: 
 email: abarinas@ucsd.edu
+cv_file: /CV_oct_2025.pdf # update this when you upload a new CV
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -22,7 +23,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------

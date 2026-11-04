@@ -1,10 +1,5 @@
 ---
-layout: page
+layout: redirect
 permalink: /teaching/
-title: teaching
-nav: true
+redirect_to: /#teaching
 ---
-
-## as teaching assistant
-**Introduction to Microeconomics I** (Universidad de los Andes - 2022/2023).
-
