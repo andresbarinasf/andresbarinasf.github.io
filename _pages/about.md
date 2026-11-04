@@ -24,10 +24,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 # research
 
 ## working papers
-1. [Corruption and Political Accountability in Good and Bad Economic Times](/assets/pdf/Barinas-Scartascini_Corruption-and-Accountability.pdf). 
-(with [Carlos Scartascini](https://www.cscartascini.org/))(<i>Submitted</i>)
+1. He Steals, but He Gets Things Done: Corruption, Norms and Accountability in Good Times. (with [Carlos Scartascini](https://www.cscartascini.org/))
 
-2. [Gradual or abrupt? How Tax Reform Design and Information Shape Compliance](/assets/pdf/Barinas-et-al_Tax-Reform-Design.pdf).
+2. [Gradual or abrupt? Reform Pace, Advance Information and Tax Compliance](/assets/pdf/Barinas-et-al_Tax-Reform-Design.pdf).
 (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
 3. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
