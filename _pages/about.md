@@ -24,23 +24,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 # research
 
 ## working papers
-1. [Wage cuts, Social Distributional Preferences, and Political Corruption](https://publications.iadb.org/publications/english/document/Wage-Cuts-Social-Distributional-Preferences-and-Political-Corruption-Preliminary-Results.pdf).
-(with [Carlos Scartascini](https://www.cscartascini.org/))
-
-2. [Corruption and Political Accountability in Good and Bad Economic Times](/assets/pdf/Barinas-Scartascini_Corruption-and-Accountability.pdf). 
+1. [Corruption and Political Accountability in Good and Bad Economic Times](/assets/pdf/Barinas-Scartascini_Corruption-and-Accountability.pdf). 
 (with [Carlos Scartascini](https://www.cscartascini.org/))(<i>Submitted</i>)
 
-3. [Gradual or abrupt? How Tax Reform Design and Information Shape Compliance](/assets/pdf/Barinas-et-al_Tax-Reform-Design.pdf).
+2. [Gradual or abrupt? How Tax Reform Design and Information Shape Compliance](/assets/pdf/Barinas-et-al_Tax-Reform-Design.pdf).
 (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
-4. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
+3. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
 Master’s thesis (Honorable mention - [Juan Luis Londoño Award 2025](https://economia.uniandes.edu.co/es/actualidad/eventos/premio-juan-luis-londono-2025)) 
 
 ## work in progress
 
-1. Schools of Inequality: Academic Credentials as Status Signals. (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Camilo Cardenas](https://economia.uniandes.edu.co/cardenas))
+1. Wage cuts, Social Distributional Preferences, and Political Corruption. (with [Carlos Scartascini](https://www.cscartascini.org/))
 
-2. The Political Feasibility of Fiscal Reform: Experimental Evidence. (<i>Draft upcoming</i>)  (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/), [Gabriela Mejía](https://www.linkedin.com/in/gabriela-mejia-becerra/?originalSubdomain=co) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
+2. Schools of Inequality: Academic Credentials as Status Signals. (with [Leopoldo Fergusson](https://www.leopoldofergusson.com/) and [Juan Camilo Cardenas](https://economia.uniandes.edu.co/cardenas))
+
+3. The Political Feasibility of Fiscal Reform: Experimental Evidence. (<i>Draft upcoming</i>)  (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/), [Gabriela Mejía](https://www.linkedin.com/in/gabriela-mejia-becerra/?originalSubdomain=co) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
 
 
