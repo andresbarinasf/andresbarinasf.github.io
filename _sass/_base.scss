@@ -135,6 +135,44 @@ html {
   font-weight: 400;
 }
 
+// Abstract toggle below a paper
+
+.abstract {
+  margin-top: -0.6rem;
+  margin-bottom: 1rem;
+  summary {
+    display: inline-block;
+    padding: 0.05rem 0.6rem;
+    border: 1.5px solid #5f6b7a;
+    border-radius: 8px;
+    color: #3f4a57;
+    cursor: pointer;
+    font-size: 0.8125rem;
+    list-style: none;
+    user-select: none;
+    &::-webkit-details-marker {
+      display: none;
+    }
+    &::before {
+      content: "+";
+      margin-right: 0.3rem;
+      font-weight: 700;
+    }
+    &:hover {
+      background-color: #e9ecf0;
+    }
+  }
+  &[open] summary::before {
+    content: "\2212";
+  }
+  p {
+    margin-top: 0.6rem;
+    margin-bottom: 0.25rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+}
+
 .resource-list {
   margin-top: 0.25rem;
 }
