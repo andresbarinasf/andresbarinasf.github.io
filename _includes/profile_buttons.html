@@ -1,5 +1,4 @@
 <div class="profile-buttons">
-  <a class="profile-button" href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> Email</a>
   <a class="profile-button" href="{{ site.cv_file | relative_url }}" target="_blank"><i class="fas fa-file-alt"></i> CV</a>
   {% if site.scholar_userid %}<a class="profile-button" href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>{% endif %}
   {% if site.linkedin_username %}<a class="profile-button" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>{% endif %}
