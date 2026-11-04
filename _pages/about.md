@@ -26,7 +26,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ## working papers
 1. He Steals, but He Gets Things Done: Corruption, Norms and Accountability in Good Times. (with [Carlos Scartascini](https://www.cscartascini.org/))
 
-2. [Gradual or abrupt? Reform Pace, Advance Information and Tax Compliance](/assets/pdf/Gradual or Abrupt? Reform Pace, Advance Information, and Tax Compliance.pdf).
+2. [Gradual or abrupt? Reform Pace, Advance Information and Tax Compliance](/assets/pdf/Gradual_Abrupt_Tax_Compliance.pdf).
 (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
 3. [Why should my group trust yours? Collective Trust and Trustworthiness under Economic Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913116).
