@@ -141,29 +141,37 @@ html {
   margin-top: -0.6rem;
   margin-bottom: 1rem;
   summary {
-    display: inline-block;
-    padding: 0.05rem 0.6rem;
-    border: 1.5px solid #5f6b7a;
-    border-radius: 8px;
-    color: #3f4a57;
+    display: block;
     cursor: pointer;
-    font-size: 0.8125rem;
     list-style: none;
     user-select: none;
     &::-webkit-details-marker {
       display: none;
     }
+  }
+  .abstract-button {
+    display: inline-block;
+    padding: 0.05rem 0.6rem;
+    border: 1.5px solid #5f6b7a;
+    border-radius: 8px;
+    color: #3f4a57;
+    font-size: 0.8125rem;
     &::before {
       content: "+";
       margin-right: 0.3rem;
       font-weight: 700;
     }
-    &:hover {
-      background-color: #e9ecf0;
-    }
   }
-  &[open] summary::before {
+  summary:hover .abstract-button {
+    background-color: #e9ecf0;
+  }
+  &[open] .abstract-button::before {
     content: "\2212";
+  }
+  .paper-status {
+    margin-left: 0.35rem;
+    color: #8a94a3;
+    font-size: 0.8125rem;
   }
   p {
     margin-top: 0.6rem;

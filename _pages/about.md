@@ -32,7 +32,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 (with [Mariana Blanco](https://sites.google.com/site/mbnet26/home), [Carlos Scartascini](https://www.cscartascini.org/) and [Andrea Lopez-Luzuriaga](https://aflopezluzuriaga.github.io/website/index.html))
 
    <details class="abstract">
-   <summary>Abstract</summary>
+   <summary><span class="abstract-button">Abstract</span> <span class="paper-status">(Revise and Resubmit at International Tax and Public Finance)</span></summary>
    <p>How does the pace of a tax reform, and what taxpayers are told about it in advance, shape compliance? We report a laboratory experiment in which the statutory rate rises from 10% to 40% either in a single step or in three increments, crossed with whether participants learn the entire path at the outset or discover each change only when it takes effect. The two paths are constructed to carry the same average statutory rate, so any difference between them reflects behavior rather than the schedule itself. Compliance falls as the rate rises, but at the terminal 40% rate it is statistically indistinguishable across paths. Advance information matters instead: informed participants are 4 to 7 percentage points less likely to declare zero income and report about 5 percentage points more of their income. This effect is absent in the first block, when both groups face the same rate, and no change has yet occurred, which is inconsistent with intertemporal optimization and points to a tax-morale channel. Because gradualism yields no compliance dividend once the target rate is reached, the periods spent at intermediate rates are forgone revenue: governments should move to the target rate directly, and announce the move in advance.</p>
    </details>
 
@@ -40,7 +40,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 Master’s thesis (Honorable mention - [Juan Luis Londoño Award 2025](https://economia.uniandes.edu.co/es/actualidad/eventos/premio-juan-luis-londono-2025))
 
    <details class="abstract">
-   <summary>Abstract</summary>
+   <summary><span class="abstract-button">Abstract</span></summary>
    <p>While trust remains pivotal for economic growth in any society, its consistency over time is not guaranteed. External shocks such as economic crises or natural disasters can disrupt group trust dynamics. Through a laboratory experiment, this study examines the effects of random negative economic shocks on economic relations characterized by having a group of trustors and a group of trustees. The results indicate that such shocks decrease collective trust between groups due to two main factors: firstly, a decline in the trustor’s perceived trustworthiness of trustees; and secondly, a tendency for trustors to rely on the contributions of other trustors, leading to free-riding behavior. Furthermore, the experiment reveals that groups become less trustworthy following the shock, as trustees prioritize recovering economic gains from trust relations. This decline in collective trustworthiness is driven by diminished trustee’s beliefs in the trustworthiness of other trustees and trustees’ enforcing what they consider socially appropriate to do: return less after the shock.</p>
    </details>
 
