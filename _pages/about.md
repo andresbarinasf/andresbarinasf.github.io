@@ -77,11 +77,6 @@ Master’s thesis (Honorable mention - [Juan Luis Londoño Award 2025](https://e
 - Practice problems <span class="coming-soon">(coming soon)</span>
 {: .resource-list}
 
-**What Do Top-5 Journals Reward? Four facts about the taste of the economics profession** (University of California, San Diego - November 2026).
-
-- [Slides](/assets/pdf/top5_taste_Andres.pdf)
-{: .resource-list}
-
 **Introduction to Microeconomics I** (Universidad de los Andes - 2022/2023).
 
 </section>
